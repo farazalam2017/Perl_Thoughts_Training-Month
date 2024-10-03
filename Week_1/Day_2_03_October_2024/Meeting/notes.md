@@ -1,18 +1,14 @@
-```
-  
-  - workflow github basic
-  - create a mock api and show dummy content
-  - Important link:- https://github.com/projen/projen
-  - 
-  - Innovators dilemma- books
-  - sign/sign up in next js
-  - How different system manages signin/signup, use of jwt tokens
-    - https://github.com/ixartz/Next-js-Boilerplate/tree/main
-  - How to make less 
-  - balance in technical and business models
-  -  :- for sign in and sign up it is like firebase
-  -  How to setup mock api in in react/next js
-```
+# Task
+  - [Set up this app](https://github.com/ixartz/Next-js-Boilerplate/tree/main)
+  - Create your own clerk account
+  - Shar link or video of you progress
+  - ![alt text](image.png)
+  - In the boilerplate repo sign-in, singup, forgot password already implemented. 
+  - Once setup the application focus on doctor listing page.
+  - ![alt text](image.jpeg)
+ 
+Once setup the application focus on doctor listing page.
+
 ## What to study on own and exlore today:- 
     - Workflow of github 
     - How to create mock api in next js and show dummy content
