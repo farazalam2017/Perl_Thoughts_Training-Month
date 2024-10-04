@@ -3,7 +3,6 @@
 - preparing onboarding handbook by HR for proper onboarding of intern
 - Email is best way for communicating with interns, no phone call, no team link
 - Coping with challenges of remote work and onboarding of interns.
-- 
 
 
 ### Today task for intern (4 October 2024)
@@ -14,7 +13,7 @@
    - days availability
    - Number of patients visiting in a day 
    - make best assumption at you point and make it.
-   
+
 ### Business Strategies Features on doctor app
 - Patient onboarding Exp.
 - Doctor onboarding Exp.

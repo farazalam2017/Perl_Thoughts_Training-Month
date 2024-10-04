@@ -1,6 +1,7 @@
-# All group members detail and their respective group link to koin
+# All group members detail and their respective group link to join
 ## Main WhatsApp Group [Perl Thorugh Intership](https://chat.whatsapp.com/D8ub4P1IVVMEGR22Ttbquv):- all members must be present there to get details.
-### Sub-group ans their members
+### [Video](https://www.loom.com/share/d54723eca0c54d68aa33fa23725782fb), to know what to do after joining.
+### Sub-group and their members
 ```
 	Group 1: Innovators
 			Sumit Chavan
@@ -10,7 +11,7 @@
 			Rabban Javed
 			Doppani Balaji
 			Avinash Pandey
-	Group 2: Visionaries
+Group 2: Visionaries
 			Kiran Sargar
 			Aravinth A. M.
 			Sayan Giri
@@ -18,7 +19,7 @@
 			Farheen Shaheen
 			Prashant Raj
 			Shaik Arshad
-	Group 3: Trailblazers
+Group 3: Trailblazers
 			Ashwini V
 			Faraz Alam
 			Syed Tarique Abedin
@@ -26,7 +27,7 @@
 			Shubham Kumar
 			Naveen M
 			Shreyash Shinde
-	Group 4: Pioneers
+Group 4: Pioneers
 			Mihirsinh Vikramsinh Raj
 			Mukesh T
 			Venkata Naga Krishna Sai
@@ -34,7 +35,7 @@
 			Abhishek Yadav
 			Megha Batra
 			Ankur
-	Group 5: Champions
+Group 5: Champions
 			Abhisek Sahu
 			Tushya Suresh Gandhi
 			Yusuf Maniyar
@@ -42,7 +43,7 @@
 			Jagadeesh Boina
 			Vetrivel M
 			Ayush Patel
-	Group 6: Achievers
+Group 6: Achievers
 			Mohit Kunwar
 			Tanamay
 			Begari Nithin Kumar
@@ -50,7 +51,8 @@
 			Tharun
 			Madhuri Sisodia
 			Namitha BM
-	Group 7: Go-Getters
+			saimaparween281
+Group 7: Go-Getters
 			Mohit Kumar
 			Brijesh Singh
 			Arka Jyoti Adhikary
@@ -58,7 +60,8 @@
 			Shiyam Robert
 			Ameya Sunil Sanyal
 			Kameshwar Kumar Das
-	Group 8: Strivers
+			jhanikhil881
+Group 8: Strivers
 			Shreya Kumari
 			Prakhar Punj Shrivastaa
 			Shreya Singh Bais
@@ -66,7 +69,7 @@
 			Hem Bhadur
 			Arjun Singh
 			Ayush Mehan
-	Group 9: Explorers
+Group 9: Explorers
 			Samiksha Wankar
 			Vaishali Singh
 			Nimish Rajesh Jadhav
@@ -74,14 +77,16 @@
 			Hemant Kishor Chaudhari
 			Shilpa Mewada
 			Shrikant Prakash Tathe
-	Group 10: Dreamers
+			rv238502
+Group 10: Dreamers
 			Akshita Gupta
 			Mohamed Sugail
 			Vaishnavi M
 			Varshitha Reddy Banda
 			anshusarkaranx
-			bhargava0200
-```
+			bhargava0200 
+			abhishekkumarr1106
+			sowmiyaravi3112
 ### Whatsapp link to join group
 [group 1](https://chat.whatsapp.com/FBO6GrizDhRF2ypBEh6F4a)
 
